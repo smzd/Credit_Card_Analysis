@@ -52,7 +52,9 @@ Balanced Accuracy score is 64.7%
 Precision for High Risk is 1%, and recall is 72%
 Precision for Low Risk is 100%, and recall is 57%
 
-Two machine learning models, BalancedRandomForestClassifier and EasyEnsembleClassifier, are used to predict credit card risk and to help reduce bias.
+#Two machine learning models 
+
+BalancedRandomForestClassifier and EasyEnsembleClassifier, are used to predict credit card risk and to help reduce bias.
 
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/d3_accuracy.png)
 

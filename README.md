@@ -17,9 +17,7 @@ We split 75% of the dataset as training and 25% of the same dataset as testing.
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/d12_accuracy.png)       
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/d12_report.png)       
 
-Random oversample: random oversample randomly duplicates from minority classes to address the class imbalance issue. 
-
-![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/random_oversample.png)       
+Random oversample: random oversample randomly duplicates from minority classes to address the class imbalance issue.      
 
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/counter_random.png)       
 As we can see the count of both High and Low Risk is 51366.

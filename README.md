@@ -12,7 +12,7 @@ We split 75% of the dataset as training and 25% of the same dataset as testing.
 •	Training: Low Risk=51366, High Risk= 246 
 •	Test: Low Risk=17104, High Risk=101
 
-#oversample
+#Oversample
 
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/d12_accuracy.png)       
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/d12_report.png)       
@@ -35,9 +35,9 @@ Balanced accuracy score is 66.2%
 Precision for High Risk is 1%, and recall is 63%
 Precision for Low Risk is 100%, and recall is 69%
 
-#Undersampling
+#Undersample
 
-ClusterCentroids Model majority class gets undersampled or decreased to the minority class. The algorithm targets the majority class and generates synthetic data points called centroids representing the clusters. 
+ClusterCentroids Model: Majority class gets undersampled or decreased to the minority class. The algorithm targets the majority class and generates synthetic data points called centroids representing the clusters. 
 
 ![](https://github.com/smzd/Credit_Card_Analysis/blob/main/Resources/cc_counter.png)
 The count of both High and low risk is 246.

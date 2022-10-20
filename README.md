@@ -82,17 +82,4 @@ We must consider that the credit card risk data set has 99% low-risk and 1% high
 
 Based on the calculation, we can conclude that the EasyEnsembleClassifier algorithm had the highest accuracy of 93% in predicting high-risk loan status. The result indicating low-risk loan status was also more precise. Therefore we can conclude that the EasyEnsembleClassifier algorithm is the best solution for our analysis to perform credit card risk prediction.
 
-Let's summarize all six high risk application results:
-
-•	EasyEnsembleClassifer: 93% accuracy, 9% precision, 92% recall, and 16% F1 Score
-
-•	BalancedRandomForestClassifer: 78.9% accuracy, 3% precision, 70% recall and 6% F1 Score
-
-•	SMOTE: 66.2% accuracy, 1% precision, 63% recall and 2% F1 Score
-
-•	RandomOverSampler: 67.4% accuracy, 1% precision, 70% recall and 2% F1 Score
-
-•	SMOTEENN: 64.7% accuracy, 1% precision, 72% recall and 2% F1 Score
-
-•	ClusterCentroids: 54.4% accuracy, 1% precision, 69% recall and 1% F1 Score
 
